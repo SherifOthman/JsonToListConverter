@@ -1,0 +1,17 @@
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\bin\Debug\net9.0\JsonToListConverter.exe
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\bin\Debug\net9.0\JsonToListConverter.deps.json
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\bin\Debug\net9.0\JsonToListConverter.runtimeconfig.json
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\bin\Debug\net9.0\JsonToListConverter.dll
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\bin\Debug\net9.0\JsonToListConverter.pdb
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\JsonToListConverter.csproj.AssemblyReference.cache
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\JsonToListConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\JsonToListConverter.AssemblyInfoInputs.cache
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\JsonToListConverter.AssemblyInfo.cs
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\JsonToListConverter.csproj.CoreCompileInputs.cache
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\JsonToLi.4FF9C8E5.Up2Date
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\JsonToListConverter.dll
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\refint\JsonToListConverter.dll
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\JsonToListConverter.pdb
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\JsonToListConverter.genruntimeconfig.cache
+C:\Users\huawe\source\repos\JsonToListConverter\JsonToListConverter\obj\Debug\net9.0\ref\JsonToListConverter.dll
